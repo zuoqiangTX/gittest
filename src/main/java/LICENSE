@@ -1,2 +1,4 @@
-public class MyTest{
+public class MyTest implments Runnable{
+ public void run(){
+ }
 }
